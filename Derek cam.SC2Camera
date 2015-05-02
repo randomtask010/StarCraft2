@@ -1,0 +1,19 @@
+[Star2Camera] /* Don't Touch This Line */
+FieldOfView = 27.799999
+NearClip = 0.100000
+FarClip = 600.000000
+ShadowClip = 75.000000
+TargetDistance = 2.143338
+Pitch = 56.000000
+Yaw = 180.000000
+Roll = 0.000000
+HeightOffset = 0.000000
+TargetPosition = [107.142853,104.841682,8.103271]
+CameraPosition = [107.142853,103.643143,9.880179]
+DepthOfField = 0.000000
+FocalDepth = 8.000000
+FalloffStart = 0.000300
+FalloffEnd = 8.000000
+CameraMatrixX = [1.000000,0.000000,-0.000000]
+CameraMatrixY = [0.000000,0.559193,0.829037]
+CameraMatrixZ = [0.000000,-0.829037,0.559193]
